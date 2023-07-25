@@ -24,9 +24,9 @@ body{
     
 .player {
     position: absolute;
-    min-width: 300px;
-    min-height: 200px;
-    background-image: linear-gradient(to bottom, rgb(70, 70, 70), rgb(132, 131, 131));
+    min-width: 350px;
+    min-height: 400px;
+    background-image: linear-gradient(to bottom, rgb(20, 2, 2), rgba(69, 35, 35, 0.578));
     border-radius: 10px 10px 10px 10px;
     padding: 10px;
     box-shadow: 2px 20px 100px rgb(243, 161, 174);
